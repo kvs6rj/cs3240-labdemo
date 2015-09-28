@@ -1,2 +1,2 @@
-# cs3240-labdemo
-This should come into conflict with the other readme
+#cs3240-labdemo
+Hey, Kavita. This is editing from the online version (or remote) git.
